@@ -1,9 +1,11 @@
 Reading notes 2: GitHub and VS Code
   Vocabulary:
-   
+   Commit: Save changes to respository
+   Fork: A duplicatye/copy of repository; useful for testing things
   
   
   GitHub:
     GitHub provides different payment/service plans that suit the varying needs of coders
     Every repository should have a readme.md as the first page
-    
+    When "committing" you have option to do a pull request which lets others let you know what changes have been made to open discussion about it
+    Scenario: If there is an error in a repository, I can fork it, fix the error, then submit a pull request to the owner to suggest the fix
