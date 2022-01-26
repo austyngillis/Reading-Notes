@@ -1,7 +1,8 @@
 Reading notes 2: GitHub and VS Code
   Vocabulary:
    Commit: Save changes to respository
-   Fork: A duplicatye/copy of repository; useful for testing things
+   Fork: A duplicate/copy of someone's repository; useful for testing things
+   Push: Upload changes to repository
   
   
   GitHub:
@@ -9,3 +10,9 @@ Reading notes 2: GitHub and VS Code
     Every repository should have a readme.md as the first page
     When "committing" you have option to do a pull request which lets others let you know what changes have been made to open discussion about it
     Scenario: If there is an error in a repository, I can fork it, fix the error, then submit a pull request to the owner to suggest the fix
+VS Code: 
+  Source code editor available on all major OS
+    Built in support for major languages and extensions for more
+    
+    Getting familiar with VSCode and GitHub and understanding them as tools is invaluable in this workspace and class. Although I am still getting used to the layout of VScode I can tell it is a powerful tool.
+    
