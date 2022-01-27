@@ -2,7 +2,7 @@ Troubleshooting Techniques
 How to Troubleshoot – CompTIA A+ 220-902 – 5.5
 
 Notes:
-  Process:
+ CompTIA troubleshooting method Process:
     1. Identify the problem.: Understand, and possibly duplicate the problem, and document details. If multiple problems, identify and do trouble shooting process individually
     2. Establish a theory: Theorize the resolution and test out, starting with the easiest.
     3. Test theory; if it doesn't work go back and test next. 
@@ -15,3 +15,9 @@ Notes:
     Troubleshooting: looking for faults in a system and then correcting them through a structured process.
     
    Importance: The second half of this week seems to focus on providing support to end users, like how yesterday we helped "Bob". This article helped provide a clear outline of whta process to follow to best assist customers
+   
+   Lecture notes: 
+    Root Cause Analysis (RCA): Find out what the root problem is
+    Continuous improvement (kaizen): Always working to imoprove processes
+    Problem documentation: Its important to document problems to refer back to.
+    
