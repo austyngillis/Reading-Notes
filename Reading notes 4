@@ -21,3 +21,29 @@ Notes:
     Continuous improvement (kaizen): Always working to imoprove processes
     Problem documentation: Its important to document problems to refer back to.
     
+   ITIL Problem management: 
+      Proactive Problem Identification: Ex: You notice an issue in a system and address it immediately to get ahead of the problem before it affects other users.
+      Categorize problems and then prioritize. 
+      Problem Diagnosis and Resolution.
+      Problem and error control - montitor "outsdanding problems". Ticket in queue for too long? Increase priority
+      Problem closure and evaluatuion
+      Problem review: Review the problem and document
+      Problem management reporting: inform other processes (ex: Helpdesk deals with this file, should inform that this issue occurred and was resolved in "x" way
+      
+    ITIL Continuous Service Improvement
+      Service Review: (Review on regular basis)
+      Process Evaluation: Audit a process or user's use of a procedure, benchmarking
+      Definition os CSI Initivates (Projects)
+      
+    Disk management: 
+    
+    
+    
+    Demo: 
+    
+    diskpart cmd opens diskpart in command line. Next line should say DISKPART>
+    
+    
+    
+    
+      
