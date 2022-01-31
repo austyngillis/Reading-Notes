@@ -1,6 +1,6 @@
 Reading Notes 5: https://www.upguard.com/blog/smb-port
   Vocabualry: 
-    SMB Protocal: Server Message Block Protocal is a client-server communication protocal that allows for sharing of files, devices, and serial ports on the work.
+    SMB Protocal: Server Message Block Protocal is a client-server communication protocal that allows for sharing of files, devices, and serial ports on the network
     
     
    *Client-server approach is when the client makes specific requests and the server responds
