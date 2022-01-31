@@ -1,0 +1,28 @@
+Reading Notes 5: https://www.upguard.com/blog/smb-port
+  Vocabualry: 
+    SMB Protocal: Server Message Block Protocal is a client-server communication protocal that allows for sharing of files, devices, and serial ports on the work.
+    
+    
+   *Client-server approach is when the client makes specific requests and the server responds
+   *SMB designed by Barry Geigenbaum at IBM in 1983
+   *Microsoft changed it so SMB worked over port 445 (other SMB port is typically 139)
+   
+  Video notes:https://www.professormesser.com/free-a-plus-training/220-1002/microsoft-command-line-tools/
+    Helpful commands: 
+      help: gives information on command such as the way it may be used. can also use [command] \?
+      dir: lists directory
+      cd: changes directory. "cd /home"
+      ..: moves to the directory above current directory
+      shutdown: /s /t nn (nn being seconds) or /r /t nn for restart. to abort sequence countdown enter /a in command prompt
+      dism: deployment image servicing and management tool. Allows changes to Windiws Imaging Format files
+      sfc (system file checker): allows you to scan and repair system files. 
+      chkdsk (check disk for errors): chkdsk /f fixes logical file system errors; chkdsk /r locates bad sectors and recovers what it can
+      diskpart (disk partitioning): can get information on disk usage or reformat disks
+      tasklist: lists currently running processes. 
+      taskkill: terminate process taskkill /PID /t
+      gpupdate: can update computer to organizations policy standards. 
+      gpresult: shows current group policy settings
+      format: allows you to create file system on drive. 
+      copy: used to copy files or list of files to move elsewhere;  verifies that new files are written correction. /y forces overwrite without confirmation required.
+        ex: copy /v (file name) c:
+      
