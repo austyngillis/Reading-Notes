@@ -26,3 +26,4 @@ Reading Notes 5: https://www.upguard.com/blog/smb-port
       copy: used to copy files or list of files to move elsewhere;  verifies that new files are written correction. /y forces overwrite without confirmation required.
         ex: copy /v (file name) c:
       
+    This is helpful information because I will be setting up my computers to use SMB protocal and be working in the Windows command line this week.
