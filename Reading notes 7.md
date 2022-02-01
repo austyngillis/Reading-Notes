@@ -5,7 +5,9 @@ Reading 7/Some lecture notes
      Power Shell: A scripting lanaguage built on  .NET and "Command-line shell interface" that allows credentialed users to manage their PC from        the CLI
      cmdlets: Used to performs tasks in powershell
      MSCONFIG: Configure settings on startup
-     
+     Port forwarding: Forwards all port traffic to the LAN PC
+     Demo: Windows remote management (WinRM) uses port ?
+     open power shell
     
   Reading 1: https://www.techthoughts.info/ps1-should-you-learn-powershell/
     
