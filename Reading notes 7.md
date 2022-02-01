@@ -6,6 +6,7 @@ Reading 7
      cmdlets: Used to performs tasks in powershell
     
   Reading 1: https://www.techthoughts.info/ps1-should-you-learn-powershell/
+    
     Bash works with strings while powershell works with objects
     Bash typically used by linux users and powershell by Windows users
     Powershell is supprot on major platforms like: Windows, Linux, Hyper-V, VMWare, AWS, and Azure
