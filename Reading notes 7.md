@@ -5,7 +5,7 @@ Reading: https://www.techthoughts.info/ps1-should-you-learn-powershell/
      Power Shell: A scripting lanaguage built on  .NET and "Command-line shell interface" that allows credentialed users to manage their PC from        the CLI
      cmdlets: Used to performs tasks in powershell
     
-    
+  Reading 1: 
     Bash works with strings while powershell works with objects
     Bash typically used by linux users and powershell by Windows users
     Powershell is supprot on major platforms like: Windows, Linux, Hyper-V, VMWare, AWS, and Azure
@@ -17,7 +17,8 @@ Reading: https://www.techthoughts.info/ps1-should-you-learn-powershell/
       As additional layer of protection scripts can be required to be digitally signed
       Phishing and other "social engineering" scams are still very prevalent
       
-      
+ Thoughts:
+ 
       Powershell is a very prevalent tool used in the industry over a range of professions and is certainly going to be a useful skill for me to         develop. 
       Based on the fact that powershell is now being used for cyber attacks it would seem it is important to at least have some understanding of         it in order to counter hackers.
   
