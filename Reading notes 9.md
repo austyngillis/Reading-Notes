@@ -33,8 +33,11 @@ Vocabualry:
  
    Email:
       -Reasons we need to practice email service and client setup: 
+        
         *troubleshooting issues
+        
         *security risk
+        
         *configuration and setup
         
       -Email utilizes a client-server architecture 
