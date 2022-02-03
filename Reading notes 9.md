@@ -34,7 +34,7 @@ Vocabualry:
             5. Its about the audience: The language and complexity of ideas described in SOPs should be developed with the user in mind
     
  
-   Email:
+   Email/lecture:
    
       -Reasons we need to practice email service and client setup: 
         
