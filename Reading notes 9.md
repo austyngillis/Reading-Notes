@@ -4,6 +4,7 @@ Vocabualry:
     Standard Operating Procedure (SOP): A set guideline to follow when carrying out specific tasks, set by the company
  
  Reading Notes (https://www.thinkhdi.com/library/supportworld/2017/you-want-to-write-an-sop.aspx): 
+        
         -Policy: general guidance
         
         -SOP: What, when, and why something needs to be done
