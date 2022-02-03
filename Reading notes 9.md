@@ -32,6 +32,7 @@ Vocabualry:
     
  
    Email:
+   
       -Reasons we need to practice email service and client setup: 
         
         *troubleshooting issues
