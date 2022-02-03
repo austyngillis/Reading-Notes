@@ -57,6 +57,6 @@ Vocabualry:
         *.msg
         *.mbx
        
-      
+     This information is relevant to help desk jobs or administrator level positions, and email is used by everybody in some way. 
       
       
