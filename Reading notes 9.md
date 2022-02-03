@@ -4,16 +4,16 @@ Vocabualry:
     Standard Operating Procedure (SOP): A set guideline to follow when carrying out specific tasks, set by the company
  
  Reading Notes (https://www.thinkhdi.com/library/supportworld/2017/you-want-to-write-an-sop.aspx): 
-        *Policy: general guidance
-        *SOP: What, when, and why something needs to be done
-        *Work instructions: Answers how; step by step instructions within an SOP
-        *SOPs help in QA by ensuring consistency
-        *SOPs need to be maintained; policy changes might have been made or a program updated so working instructions might need to be updated.
-        *When creating SOP start with plan/outline/flow chart. 
-        *Closely related topics should be contained together for ease of use
+        -Policy: general guidance
+        -SOP: What, when, and why something needs to be done
+        -Work instructions: Answers how; step by step instructions within an SOP
+        -SOPs help in QA by ensuring consistency
+        -SOPs need to be maintained; policy changes might have been made or a program updated so working instructions might need to be updated.
+        -When creating SOP start with plan/outline/flow chart. 
+        -Closely related topics should be contained together for ease of use
         Should be detailed and understandable but not overly detailed to be overbearing
-        *SOP should contain opening paragraph summarizing the procedure and purpose
-        *5 Guiding principles on writing SOP:
+        -SOP should contain opening paragraph summarizing the procedure and purpose
+        -5 Guiding principles on writing SOP:
             1. Keep it simple: Keep as simple as possible while still being able to follow all steps
             2. SOPs must be portable: Its not useful to the company if Joe has the only copy and he is on vacation. Saving to a shared directory is one example of making it portable
             3. Flowcharts and diagrams tell a story: Pictures/diagrams can provide a lot of information quickly
