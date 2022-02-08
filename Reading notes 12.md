@@ -8,3 +8,6 @@ Reading notes: https://turbofuture.com/computers/Introduction-to-pfSense-An-Open
      *Embedded version download available for small/specialized appliance rather than an old desktop
      *need at least two network cards available on old computer
      *free support available through community; commercial supprot through BSD perimeter
+
+Lecture notes:
+      
